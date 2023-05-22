@@ -1,0 +1,62 @@
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\appsettings.json
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\Text & QR Scanner.staticwebassets.runtime.json
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\Text & QR Scanner.exe
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\Text & QR Scanner.deps.json
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\Text & QR Scanner.runtimeconfig.json
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\Text & QR Scanner.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\Text & QR Scanner.pdb
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\BitMiracle.LibTiff.NET.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\IronOcr.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\IronSoftware.Drawing.Common.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x64\native\IronPdfInterop.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x64\native\eng.base.traineddata
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x64\native\eng.best.traineddata
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x64\native\eng.fast.traineddata
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x64\native\eng.user-patterns
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x64\native\eng.user-words
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x64\native\liblept-5.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x64\native\libtesseract-5.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x64\native\osd.traineddata
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x64\native\pdf.ttf
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x64\native\pdf.ttx
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x86\native\IronPdfInterop.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x86\native\eng.base.traineddata
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x86\native\eng.best.traineddata
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x86\native\eng.fast.traineddata
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x86\native\eng.user-patterns
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x86\native\eng.user-words
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x86\native\liblept-5.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x86\native\libtesseract-5.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x86\native\osd.traineddata
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x86\native\pdf.ttf
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\bin\Debug\net7.0\runtimes\win-x86\native\pdf.ttx
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\Text & QR Scanner.csproj.AssemblyReference.cache
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\Text & QR Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\Text & QR Scanner.AssemblyInfoInputs.cache
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\Text & QR Scanner.AssemblyInfo.cs
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\Text & QR Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\Text & QR Scanner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\Text & QR Scanner.RazorAssemblyInfo.cache
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\Text & QR Scanner.RazorAssemblyInfo.cs
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\staticwebassets\msbuild.Text & QR Scanner.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\staticwebassets\msbuild.build.Text & QR Scanner.props
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Text & QR Scanner.props
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Text & QR Scanner.props
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\scopedcss\bundle\Text & QR Scanner.styles.css
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\scopedcss\projectbundle\Text & QR Scanner.bundle.scp.css
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\Text & QR Scanner.csproj.CopyComplete
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\Text & QR Scanner.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\refint\Text & QR Scanner.dll
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\Text & QR Scanner.pdb
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\Text & QR Scanner.genruntimeconfig.cache
+C:\Users\Ishisan\Desktop\ASP.NET Projects\Text & QR Scanner\Text & QR Scanner\obj\Debug\net7.0\ref\Text & QR Scanner.dll

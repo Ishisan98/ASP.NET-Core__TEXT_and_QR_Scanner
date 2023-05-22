@@ -1,0 +1,98 @@
+﻿@model Text___QR_Scanner.Models.ImageData
+@{
+    ViewBag.Title = "Text Scan"; Layout = null;
+}
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/DeviceOnLoan_WebApp.styles.css" asp-append-version="true" />
+
+    <script src="https://unpkg.com/dynamsoft-camera-enhancer@2.1.0/dist/dce.js"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg">
+        <h5 style="padding-left:10px; padding-right:10px;">Text & QR Scanner</h5>
+        <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link active" href="">Scan Text</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="">Scan QR</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container-fluid">
+
+        <div id="enhancerUIContainer" style="height: 300px; width:300px; padding-top:10px;"></div>
+
+        <canvas id="canvas" style="width:450px; height:300px" hidden></canvas>
+
+        <div style="padding-top:10px;">
+            <form asp-action="SaveImage" enctype="multipart/form-data">
+                <input asp-for="data" id="imageData" class="form-control" style="width:15rem;" hidden/>
+                <div style="padding-top:10px;">
+                    <button id="capture" type="submit" class="btn btn-secondary">Read Text</button>
+                </div>
+            </form>
+        </div>
+
+        <div style="padding-top:20px;">
+            <b>Text Result: </b>
+            @if(ViewBag.Result!=null)
+            {
+                <text>@ViewBag.Result</text>
+            }
+            else
+            {
+                <text>--</text>
+            }
+        </div>
+
+    </div>
+
+
+
+    <script type="text/javascript">
+        let enhancer = null;
+        (async () => {
+            enhancer = await Dynamsoft.DCE.CameraEnhancer.createInstance();
+            document.getElementById("enhancerUIContainer").appendChild(enhancer.getUIElement());
+
+            // The following line hides the close button
+            document.getElementsByClassName("dce-btn-close")[0].style.display = "none";
+
+            await enhancer.open(true);
+        })();
+    </script>
+
+
+
+    <script>
+        document.getElementById('capture').onclick = () => {
+            if (enhancer) {
+                let frame = enhancer.getFrame();
+                let canvas = document.querySelector("#canvas");
+
+                const ctx = canvas.getContext("2d");
+                ctx.filter = "brightness(200%) grayscale(100%)";
+                ctx.drawImage(frame.canvas, 0, 0, canvas.width, canvas.height);
+
+                var image = document.getElementById("canvas").toDataURL("image/png");
+                image = image.replace('data:image/png;base64,', '');
+                document.getElementById("imageData").value = image;
+            }
+        };
+    </script>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+
